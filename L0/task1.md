@@ -22,7 +22,7 @@
 
 ![](./images/连接开发机.png)
 
-![vscode 连接开发机](./images/vscode 连接开发机.png)
+![vscode 连接开发机](./images/vscode连接开发机.png)
 
 4. 安装 gradio 依赖 ，安装过程耗时比较长，需要耐心等待。
 
